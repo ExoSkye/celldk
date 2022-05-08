@@ -6,4 +6,4 @@
 	url = https://github.com/ProtoByter/celldk-pdclib
 [submodule "shared"]
 	path = shared
-	url = https://github.com/ProtoByter/celldk
+	url = https://github.com/ProtoByter/celldk-shared
