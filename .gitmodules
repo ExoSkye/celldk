@@ -1,0 +1,9 @@
+[submodule "exports"]
+	path = exports
+	url = https://github.com/ProtoByter/celldk-exports
+[submodule "pdclib"]
+	path = pdclib
+	url = https://github.com/ProtoByter/celldk-pdclib
+[submodule "shared"]
+	path = shared
+	url = https://github.com/ProtoByter/celldk
